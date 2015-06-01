@@ -3,7 +3,7 @@
  * Plugin Name: Heartbeat Control
  * Plugin URI: http://jeffmatson.net/heartbeat-control
  * Description: Completely controls the WordPress heartbeat.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Jeff Matson
  * Author URI: http://jeffmatson.net
  * License: GPL2
